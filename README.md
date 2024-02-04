@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-# Kadena Public Blockchain
+# Kadena Public Blockchain.
 
 Kadena is a fast, secure, and scalable blockchain using the Chainweb consensus
 protocol. Chainweb is a braided, parallelized Proof Of Work consensus mechanism
